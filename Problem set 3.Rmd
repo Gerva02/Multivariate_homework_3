@@ -1,0 +1,20 @@
+---
+title: "Problem Set 2"
+author: |
+  Leonardo Federico De Blasio (974948)  
+  Simone Maria Gervasoni (1155376)  
+  Alice Leto (1166310)  
+  Marinella Nigro (950475)
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 3
+---
+\newpage
+
+
+## Algo 1
+
+## Algo 2 
+
+## Montecarlo Study 
